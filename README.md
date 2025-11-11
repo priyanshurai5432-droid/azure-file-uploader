@@ -63,10 +63,10 @@ graph LR
     B -->|Azure Blob SDK| C[Blob Storage<br/>Container: uploads]
     D[Azure App<br/>Settings] -.->|Secrets| B
     
-    style A fill:#e1f5ff
-    style B fill:#fff4e1
-    style C fill:#e8f5e9
-    style D fill:#fce4ec
+    style A fill:#000000
+    style B fill:#000000
+    style C fill:#000000
+    style D fill:#000000
 ```
 
 ### Component Roles
